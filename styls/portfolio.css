@@ -41,6 +41,7 @@ nav li{
 .header{
     
     background-color: white;
+    background-image: url('../images/header_bg.png');
 }
 .banner{
     padding: 50px 30px 30px 150px;
